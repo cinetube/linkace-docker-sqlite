@@ -29,7 +29,9 @@ docker exec -it linkace-app-1 php artisan registeruser
 nano .env
 ```
 
-change SETUP_COMPLETED=false to SETUP_COMPLETED=ture
+
+change ```SETUP_COMPLETED=false``` to ```SETUP_COMPLETED=ture```
+
 
 ```
 chmod 666 .env

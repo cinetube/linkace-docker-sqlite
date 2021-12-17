@@ -34,9 +34,5 @@ change ```SETUP_COMPLETED=false``` to ```SETUP_COMPLETED=ture```
 
 
 ```
-chmod 666 .env
-```
-
-```
-chmod 777 linkace_logs/
+chmod 666 .env && chmod 777 linkace_logs/
 ```
